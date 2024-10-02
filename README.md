@@ -38,7 +38,7 @@ Before running this tool, make sure you have the following:
 1. Clone this repository to your local directory:
 
     ```bash
-    git clone https://github.com/username/domain-discovery.git
+    git clone https://github.com/xReverseLabs/Domain-Discovery-python.git
     cd domain-discovery
     ```
 
